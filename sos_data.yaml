@@ -1,0 +1,5 @@
+names:
+- correct_way
+- wrong_way
+train: D:\csv_files\train a chat bot\extracted_frames\correct_way
+val: D:\csv_files\train a chat bot\extracted_frames\wrong_way
